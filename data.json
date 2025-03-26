@@ -8,20 +8,54 @@
         "linkedin": "https://www.linkedin.com/in/jose-duarte-a87993124/",
         "github": "https://github.com/henrydu399"
     },
-    "tecnologias": 
-        [
-            { "icon": "fa-brands fa-java", "nombre": "Java" },
-            { "icon": "fa-brands fa-js", "nombre": "JavaScript" },
-            { "icon": "fa-brands fa-angular", "nombre": "Angular" },
-            { "icon": "fa-brands fa-node-js", "nombre": "Node.js" },
-            { "icon": "fa-brands fa-docker", "nombre": "Docker" },
-            { "icon": "fa-brands fa-aws", "nombre": "AWS" },
-            { "icon": "fa-brands fa-linux", "nombre": "Linux" },
-            { "icon": "fa-solid fa-leaf", "nombre": "Spring" },
-            { "icon": "fa-solid fa-power-off", "nombre": "Spring Boot" },
-            { "icon": "fa-solid fa-database", "nombre": "Hibernate" },
-            { "icon": "fa-solid fa-server", "nombre": "JBoss" }
-        ],
+    "foto": "FOTO PERFIL.jpg",
+    "perfil_profesional":"Ingeniero de Sistemas especializado en desarrollo de software, con un enfoque en la aplicación de las mejores prácticas y principios de diseño para garantizar soluciones robustas y escalables. A lo largo de mi trayectoria, he liderado el análisis, diseño e implementación de aplicaciones en Java (SE, J2EE, Microservicios), optimizando su rendimiento y asegurando su escalabilidad. Actualmente, me desempeño como Software Engineer - Full Stack - Technical Lead, liderando equipos multidisciplinarios y garantizando la entrega de soluciones eficientes, innovadoras y de alta calidad. Poseo amplia experiencia en Cloud Computing (AWS, Azure), así como en estrategias de CI/CD, impulsando la automatización y la mejora continua en los procesos de desarrollo. Además, integro herramientas de inteligencia artificial como GitHub Copilot, ChatGPT y otras AIs para optimizar código, acelerar el desarrollo y potenciar la eficiencia en la resolución de problemas. Mi enfoque se centra en la innovación, la excelencia técnica y la mejora constante, asegurando que las soluciones tecnológicas cumplan con los más altos estándares de la industria.",
+    "tecnologias": [
+        {
+            "icon": "fa-brands fa-java",
+            "nombre": "Java"
+        },
+        {
+            "icon": "fa-brands fa-js",
+            "nombre": "JavaScript"
+        },
+        {
+            "icon": "fa-brands fa-angular",
+            "nombre": "Angular"
+        },
+        {
+            "icon": "fa-brands fa-node-js",
+            "nombre": "Node.js"
+        },
+        {
+            "icon": "fa-brands fa-docker",
+            "nombre": "Docker"
+        },
+        {
+            "icon": "fa-brands fa-aws",
+            "nombre": "AWS"
+        },
+        {
+            "icon": "fa-brands fa-linux",
+            "nombre": "Linux"
+        },
+        {
+            "icon": "fa-solid fa-leaf",
+            "nombre": "Spring"
+        },
+        {
+            "icon": "fa-solid fa-power-off",
+            "nombre": "Spring Boot"
+        },
+        {
+            "icon": "fa-solid fa-database",
+            "nombre": "Hibernate"
+        },
+        {
+            "icon": "fa-solid fa-server",
+            "nombre": "JBoss"
+        }
+    ],
     "experiencia": [
         {
             "cargo": "Software Engineer - INDRA COLOMBIA",
@@ -47,23 +81,60 @@
                 "Trabajo en colaboración con equipos de QA y DevOps para garantizar calidad y eficiencia."
             ]
         },
-
         {
-            "cargo": "Analista Desarrollador / Software Developer - DATACENTER",
-            "periodo": "2022",
+            "cargo": "Analista Desarrollador / Software Developer - INGENEO S.A.S",
+            "periodo": "2021  Noviembre -  2022 Marzo",
             "responsabilidades": [
-                "Creación y administración de microservicios con Spring Cloud.",
-                "Desarrollo y mantenimiento de APIs RESTful.",
-                "Automatización de procesos con herramientas CI/CD.",
-                "Integración de bases de datos relacionales y no relacionales.",
-                "Solución de incidencias y soporte a aplicaciones en producción.",
-                "Implementación de mejores prácticas de desarrollo para optimización de código.",
-                "Trabajo en colaboración con equipos de QA y DevOps para garantizar calidad y eficiencia."
+                "Diseño y desarrollo del sistema Enrrolment: Creación de un sistema integral para la gestión de matrículas en COLSUBSIDIO, optimizando el flujo de inscripción y automatizando procesos administrativos.",
+                "Integración con sistemas transversales: Implementación de conexiones eficientes entre aplicaciones existentes para garantizar la interoperabilidad y la sincronización de datos en tiempo real.",
+                "Desarrollo y mantenimiento de aplicaciones de salud: Mejora y soporte continuo de las plataformas médicas de COLSUBSIDIO, asegurando disponibilidad, rendimiento y cumplimiento normativo.",
+                "Gestión y resolución de incidencias: Diagnóstico y solución de problemas en aplicaciones empresariales, reduciendo tiempos de inactividad y mejorando la estabilidad del sistema."
             ]
         },
+        {
+            "cargo": "Analista Desarrollador / Software Developer - SOFTWARE ESTRATEGICO (Fabrica Software)",
+            "periodo": "2018 Octubre - 2021 Noviembre",
+            "responsabilidades": [
+                "Diseño e implementación de sistemas escalables en la nube, utilizando arquitecturas basadas en microservicios y despliegues en entornos cloud.",
+                "Evaluación y optimización de sistemas empresariales, garantizando su eficiencia, seguridad y escalabilidad.",
+                "Desarrollo y mantenimiento de módulos especializados para la Cámara de Comercio de Bogotá (CCB), optimizando procesos internos y externos.",
+                "Implementación de la plataforma BEPS para COLPENSIONES, asegurando cumplimiento normativo y eficiencia operativa.",
+                "Desarrollo y mantenimiento de módulos para COLPENSIONES, mejorando la administración de pensiones y servicios asociados.",
+                "Creación de soluciones móviles e híbridas para mejorar la accesibilidad y la experiencia del usuario.",
+                "Gestión y resolución de incidencias mediante monitoreo, análisis y solución de problemas técnicos para garantizar disponibilidad y estabilidad.",
+                "Investigación e implementación de nuevas tecnologías para optimizar procesos de desarrollo, automatización y rendimiento de software."
+            ]
+            
+        },
+        {
+            "cargo": "Ingeniero Intermedio - E-STORE INNOVATION ",
+            "periodo": "2017  Noviembre -  2018 Mayo",
+            "responsabilidades":  [
+                "Gestión integral del Sistema de Facturación e Inventario (SIV): Administración, soporte técnico y desarrollo de nuevos módulos para optimizar los procesos de facturación, gestión de inventarios y operación comercial, asegurando su estabilidad, escalabilidad y alineación con los requerimientos del negocio.",
+                "Administración y soporte de la plataforma Integrate: Mantenimiento y mejora continua de la plataforma de gestión de intranet empresarial, garantizando su disponibilidad, seguridad y eficiencia operativa para optimizar la comunicación y colaboración dentro de las organizaciones.",
+                "Desarrollo de un ecosistema completo de fidelización (Fidelite): Diseño, implementación e integración de un sistema de fidelización compuesto por API, cliente web y aplicación móvil, asegurando su interoperabilidad, rendimiento y una experiencia óptima para los usuarios finales."
+              ]
+        },
 
+        {
+            "cargo": "Ingeniero Junior - FUNDACION RED PORTURISMO ",
+            "periodo": "2017  Junio - Diciembre",
+            "responsabilidades":  [
+                "Desarrollo de módulos web independientes para la plataforma cucutaturistica.gov.co, garantizando su funcionalidad, usabilidad y alineación con los objetivos estratégicos del proyecto.",
+                "Impartición de capacitaciones a los agentes responsables de la recolección y actualización de información en la plataforma, asegurando el correcto manejo de datos y la optimización de los procesos.",
+                "Atención y soporte a los clientes en la gestión y suministro de información, garantizando la resolución eficiente de sus requerimientos y el cumplimiento de los estándares de calidad.",
+                "Capacitación a estudiantes de grado once de colegios vinculados al proyecto en temáticas de turismo y marketing digital, fomentando el desarrollo de competencias clave para el sector."
+              ]
+        },
 
-
+        {
+            "cargo": "Practica profesional  - Vivienda Y Valores S.A.S ",
+            "periodo": "2016  Junio - Diciembre",
+            "responsabilidades":  [
+                "Desarrollo e implementación del módulo web PQRS para la gestión, control y monitoreo en tiempo real de solicitudes, optimizando la trazabilidad y eficiencia en la atención de requerimientos.",
+                "Desarrollo de aplicaciones web, garantizando la implementación de mejores prácticas, usabilidad, escalabilidad y alineación con los objetivos del negocio."
+              ]
+        }
 
     ]
 }
