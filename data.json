@@ -1,0 +1,69 @@
+{
+    "nombre": "José Henry Duarte Castellanos",
+    "titulo": "Ingeniero de Sistemas | Software Engineer | Full Stack Developer | Technical Lead",
+    "contacto": {
+        "telefono": "3003681463",
+        "email": "henryduarte399@gmail.com",
+        "ubicacion": "Cúcuta, Colombia",
+        "linkedin": "https://www.linkedin.com/in/jose-duarte-a87993124/",
+        "github": "https://github.com/henrydu399"
+    },
+    "tecnologias": 
+        [
+            { "icon": "fa-brands fa-java", "nombre": "Java" },
+            { "icon": "fa-brands fa-js", "nombre": "JavaScript" },
+            { "icon": "fa-brands fa-angular", "nombre": "Angular" },
+            { "icon": "fa-brands fa-node-js", "nombre": "Node.js" },
+            { "icon": "fa-brands fa-docker", "nombre": "Docker" },
+            { "icon": "fa-brands fa-aws", "nombre": "AWS" },
+            { "icon": "fa-brands fa-linux", "nombre": "Linux" },
+            { "icon": "fa-solid fa-leaf", "nombre": "Spring" },
+            { "icon": "fa-solid fa-power-off", "nombre": "Spring Boot" },
+            { "icon": "fa-solid fa-database", "nombre": "Hibernate" },
+            { "icon": "fa-solid fa-server", "nombre": "JBoss" }
+        ],
+    "experiencia": [
+        {
+            "cargo": "Software Engineer - INDRA COLOMBIA",
+            "periodo": "2022 - Actualidad",
+            "responsabilidades": [
+                "Desarrollo y migración de aplicaciones empresariales.",
+                "Implementación de microservicios con Spring Boot.",
+                "Optimización de rendimiento en sistemas heredados.",
+                "Gestión de despliegues en entornos de producción con Docker y Kubernetes.",
+                "Colaboración con equipos multidisciplinarios para definir requisitos técnicos."
+            ]
+        },
+        {
+            "cargo": "Analista Desarrollador / Software Developer - DATACENTER",
+            "periodo": "2022 Marzo – Octubre ",
+            "responsabilidades": [
+                "Creación y administración de microservicios con Spring Cloud.",
+                "Desarrollo y mantenimiento de APIs RESTful.",
+                "Automatización de procesos con herramientas CI/CD.",
+                "Integración de bases de datos relacionales y no relacionales.",
+                "Solución de incidencias y soporte a aplicaciones en producción.",
+                "Implementación de mejores prácticas de desarrollo para optimización de código.",
+                "Trabajo en colaboración con equipos de QA y DevOps para garantizar calidad y eficiencia."
+            ]
+        },
+
+        {
+            "cargo": "Analista Desarrollador / Software Developer - DATACENTER",
+            "periodo": "2022",
+            "responsabilidades": [
+                "Creación y administración de microservicios con Spring Cloud.",
+                "Desarrollo y mantenimiento de APIs RESTful.",
+                "Automatización de procesos con herramientas CI/CD.",
+                "Integración de bases de datos relacionales y no relacionales.",
+                "Solución de incidencias y soporte a aplicaciones en producción.",
+                "Implementación de mejores prácticas de desarrollo para optimización de código.",
+                "Trabajo en colaboración con equipos de QA y DevOps para garantizar calidad y eficiencia."
+            ]
+        },
+
+
+
+
+    ]
+}
