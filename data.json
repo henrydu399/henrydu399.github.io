@@ -65,7 +65,9 @@
                 "Implementación de microservicios con Spring Boot.",
                 "Optimización de rendimiento en sistemas heredados.",
                 "Gestión de despliegues en entornos de producción con Docker y Kubernetes.",
-                "Colaboración con equipos multidisciplinarios para definir requisitos técnicos."
+                "Colaboración con equipos multidisciplinarios para definir requisitos técnicos.",
+                "Diseño de estructuras de datos y consultas avanzadas para el manejo eficiente de bases de datos relacionales y no relacionales.",
+                "Generación de reportes automatizados mediante tecnologías Java y Spring para seguimiento de indicadores de operación."
             ]
         },
         {
@@ -78,7 +80,9 @@
                 "Integración de bases de datos relacionales y no relacionales.",
                 "Solución de incidencias y soporte a aplicaciones en producción.",
                 "Implementación de mejores prácticas de desarrollo para optimización de código.",
-                "Trabajo en colaboración con equipos de QA y DevOps para garantizar calidad y eficiencia."
+                "Trabajo en colaboración con equipos de QA y DevOps para garantizar calidad y eficiencia.",
+                "Diseño de consultas SQL complejas y procedimientos almacenados para consolidación de datos operativos.",
+                "Elaboración de reportes técnicos y de negocio para monitoreo de servicios, utilizando tecnologías Java."    
             ]
         },
         {
@@ -88,7 +92,9 @@
                 "Diseño y desarrollo del sistema Enrrolment: Creación de un sistema integral para la gestión de matrículas en COLSUBSIDIO, optimizando el flujo de inscripción y automatizando procesos administrativos.",
                 "Integración con sistemas transversales: Implementación de conexiones eficientes entre aplicaciones existentes para garantizar la interoperabilidad y la sincronización de datos en tiempo real.",
                 "Desarrollo y mantenimiento de aplicaciones de salud: Mejora y soporte continuo de las plataformas médicas de COLSUBSIDIO, asegurando disponibilidad, rendimiento y cumplimiento normativo.",
-                "Gestión y resolución de incidencias: Diagnóstico y solución de problemas en aplicaciones empresariales, reduciendo tiempos de inactividad y mejorando la estabilidad del sistema."
+                "Gestión y resolución de incidencias: Diagnóstico y solución de problemas en aplicaciones empresariales, reduciendo tiempos de inactividad y mejorando la estabilidad del sistema.",
+                "Implementación de lógica de negocio orientada a la consolidación de información para reportes administrativos.",
+                "Gestión y manipulación de grandes volúmenes de datos mediante consultas SQL y JPA."
             ]
         },
         {
@@ -102,7 +108,9 @@
                 "Desarrollo y mantenimiento de módulos para COLPENSIONES, mejorando la administración de pensiones y servicios asociados.",
                 "Creación de soluciones móviles e híbridas para mejorar la accesibilidad y la experiencia del usuario.",
                 "Gestión y resolución de incidencias mediante monitoreo, análisis y solución de problemas técnicos para garantizar disponibilidad y estabilidad.",
-                "Investigación e implementación de nuevas tecnologías para optimizar procesos de desarrollo, automatización y rendimiento de software."
+                "Investigación e implementación de nuevas tecnologías para optimizar procesos de desarrollo, automatización y rendimiento de software.",
+                "Diseño y mantenimiento de esquemas de base de datos para gestión de inventarios.",
+                "Desarrollo de reportes dinámicos de ventas e inventarios utilizando Java y herramientas de visualización como JasperReports."
             ]
             
         },
@@ -123,7 +131,9 @@
                 "Desarrollo de módulos web independientes para la plataforma cucutaturistica.gov.co, garantizando su funcionalidad, usabilidad y alineación con los objetivos estratégicos del proyecto.",
                 "Impartición de capacitaciones a los agentes responsables de la recolección y actualización de información en la plataforma, asegurando el correcto manejo de datos y la optimización de los procesos.",
                 "Atención y soporte a los clientes en la gestión y suministro de información, garantizando la resolución eficiente de sus requerimientos y el cumplimiento de los estándares de calidad.",
-                "Capacitación a estudiantes de grado once de colegios vinculados al proyecto en temáticas de turismo y marketing digital, fomentando el desarrollo de competencias clave para el sector."
+                "Capacitación a estudiantes de grado once de colegios vinculados al proyecto en temáticas de turismo y marketing digital, fomentando el desarrollo de competencias clave para el sector.",
+                "Diseño de consultas SQL para organizar y consolidar información turística.",
+                "Desarrollo de reportes en PDF y Excel integrados con la plataforma web mediante Java."
               ]
         },
 
